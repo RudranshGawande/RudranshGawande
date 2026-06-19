@@ -65,6 +65,9 @@ If an idea pops into my head, I'll probably build it.
 
 ### Connect
 
-**rudranshgawande007@gmail.com** &nbsp;·&nbsp; 
-[LinkedIn](https://www.linkedin.com/in/rudransh-gawande) &nbsp;·&nbsp; 
-[<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="100">](https://www.instagram.com/_rudransh.exe)
+**rudranshgawande007@gmail.com**
+&nbsp;·&nbsp; 
+[<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="100">](https://www.linkedin.com/in/rudransh-gawande) &nbsp;·&nbsp; 
+[<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/instagram-1.webp" width="100">](https://www.instagram.com/_rudransh.exe)
+&nbsp;·&nbsp; 
+[<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/discord.gif" width="100">](https://www.discord.com/__rudransh_007__)
