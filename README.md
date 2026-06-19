@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Stats Card 6](https://github-stats-alpha.vercel.app/api/?username=RudranshGawande)
+
 I'm *Rudransh*, a Computer Engineering student and passionate Android Developer who loves building mobile applications, AI-powered tools, and creative digital experiences.
 
 I'm deeply interested in Android Development, Software Engineering, and Machine Learning — constantly exploring new technologies, improving my skills, and turning ideas into real projects.
