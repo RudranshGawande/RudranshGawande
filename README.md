@@ -1,47 +1,44 @@
 ## Hi there 👋
 
-I'm *Rudransh*, a Computer Engineering student and passionate MERN Stack Developer who loves building modern web applications, AI-powered tools, and creative digital experiences.
+I'm *Rudransh*, a Computer Engineering student and passionate Android Developer who loves building mobile applications, AI-powered tools, and creative digital experiences.
 
-I'm deeply interested in Full Stack Development, Software Engineering, and Machine Learning — constantly exploring new technologies, improving my skills, and turning ideas into real projects.
+I'm deeply interested in Android Development, Software Engineering, and Machine Learning — constantly exploring new technologies, improving my skills, and turning ideas into real projects.
 
-If an idea pops into my head, I'll probably build it. 
+If an idea pops into my head, I'll probably build it.
 
 ---
 
 ### What I Do
 
-- Build full-stack web applications using the MERN Stack
+- Build Android & Flutter mobile applications
 - Create modern, aesthetic, and interactive user experiences
 - Explore backend systems, APIs, and scalable architectures
 - Develop AI-powered tools
+
 ---
 
 ### Tech Stack
 
-*Frontend*
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-*Backend*
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+**Languages**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-*Database*
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Database**
+![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
-*Tools*
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0ACF83?style=flat-square&logo=figma&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=flat-square&logoColor=white)
 
 ---
 
@@ -50,22 +47,7 @@ If an idea pops into my head, I'll probably build it.
 - Advanced Machine Learning
 - AI integrations & intelligent systems
 - Scalable backend development
-- Better UI/UX design principles
-
----
-
-### Projects
-
-**[StudyFlow](https://study-flow-inky.vercel.app/)** — AI-powered productivity app for students
-Multi-provider AI chatbot · Task manager · Event scheduler with email reminders · Flashcards · Note taking · Mind maps · Pomodoro focus mode · JWT auth.
-
-**[Ethereal Chat](https://github.com/Adi-Marathe/Ethereal-Chat-Application)** — Real-time chat application featuring a premium dark glassmorphism UI. Fully built through AI-driven development by orchestrating Stitch, Antigravity, and Claude · Private messaging · Public rooms · Online status tracking · Built with Socket.IO & MERN stack.
-
-**[Batch 2023–2026](https://batch2023-2026.vercel.app/)** — Website for my classmates
-White, playful, handwritten theme · Message wall · Student cards · Staff cards · Memories gallery · and more.
-
-**[MCQ Hub](https://eti-mcq-msbte.vercel.app/)** — Interactive MCQ quiz app for MSBTE students
-Built so students don't have to read through books and PDFs — just take a quiz, see your score, and identify your weak topics.
+- Better UI/UX design principles for mobile
 
 ---
 
@@ -73,26 +55,12 @@ Built so students don't have to read through books and PDFs — just take a quiz
 
 - I can spend hours fixing a UI alignment issue nobody notices
 - I believe good UI can make any project feel magical
-- My hobbies: Anime, Music, Building thing
+- My hobbies: Anime, Music, Building things
 
 ---
 
 ### Connect
 
-**adimarathe234@gmail.com* &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/adityamarathe0812)
+**rudranshgawande007@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rudranshgawande)
 
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
-<!--
-**RudranshGawande/RudranshGawande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/RudranshGawande?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
