@@ -1,7 +1,6 @@
 ## Hi there 👋
-### Hey there! 👋
 
-I'm *Aditya*, a Computer Engineering student and passionate MERN Stack Developer who loves building modern web applications, AI-powered tools, and creative digital experiences.
+I'm *Rudransh*, a Computer Engineering student and passionate MERN Stack Developer who loves building modern web applications, AI-powered tools, and creative digital experiences.
 
 I'm deeply interested in Full Stack Development, Software Engineering, and Machine Learning — constantly exploring new technologies, improving my skills, and turning ideas into real projects.
 
