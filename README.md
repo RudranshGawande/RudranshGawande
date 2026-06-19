@@ -80,6 +80,8 @@ Built so students don't have to read through books and PDFs — just take a quiz
 ### Connect
 
 **adimarathe234@gmail.com* &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/adityamarathe0812)
+
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
 <!--
 **RudranshGawande/RudranshGawande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
