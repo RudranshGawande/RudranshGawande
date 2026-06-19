@@ -6,7 +6,7 @@ I'm deeply interested in Android Development, Software Engineering, and Machine 
 
 If an idea pops into my head, I'll probably build it.
 
----
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/1bb0f2254d2034e5769544f497e47f01b3b9b571/Assets/Multicolor%20Segregated%20Line.png" width="100%">
 
 ### What I Do
 
@@ -15,7 +15,7 @@ If an idea pops into my head, I'll probably build it.
 - Explore backend systems, APIs, and scalable architectures
 - Develop AI-powered tools
 
----
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/1bb0f2254d2034e5769544f497e47f01b3b9b571/Assets/Multicolor%20Segregated%20Line.png" width="100%">
 
 ### Tech Stack
 
@@ -40,7 +40,7 @@ If an idea pops into my head, I'll probably build it.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0ACF83?style=flat-square&logo=figma&logoColor=white)
 
----
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/1bb0f2254d2034e5769544f497e47f01b3b9b571/Assets/Multicolor%20Segregated%20Line.png" width="100%">
 
 ### Currently Learning
 
@@ -49,7 +49,7 @@ If an idea pops into my head, I'll probably build it.
 - Scalable backend development
 - Better UI/UX design principles for mobile
 
----
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/1bb0f2254d2034e5769544f497e47f01b3b9b571/Assets/Multicolor%20Segregated%20Line.png" width="100%">
 
 ### Fun Facts
 
@@ -57,10 +57,8 @@ If an idea pops into my head, I'll probably build it.
 - I believe good UI can make any project feel magical
 - My hobbies: Anime, Music, Building things
 
----
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/1bb0f2254d2034e5769544f497e47f01b3b9b571/Assets/Multicolor%20Segregated%20Line.png" width="100%">
 
 ### Connect
 
-**rudranshgawande007@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rudranshgawande)
-
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/RudranshGawande?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
+**rudranshgawande007@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rudransh-gawande)
