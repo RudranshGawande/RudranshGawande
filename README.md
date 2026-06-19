@@ -67,4 +67,4 @@ If an idea pops into my head, I'll probably build it.
 
 **rudranshgawande007@gmail.com** &nbsp;·&nbsp; 
 [LinkedIn](https://www.linkedin.com/in/rudransh-gawande) &nbsp;·&nbsp; 
-[Instagram](https://www.instagram.com/_rudransh.exe)
+[<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="100">](https://www.instagram.com/_rudransh.exe)
