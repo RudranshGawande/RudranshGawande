@@ -40,7 +40,7 @@ If an idea pops into my head, I'll probably build it.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0ACF83?style=flat-square&logo=figma&logoColor=white)
-![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=flat-square&logo=google&logoColor=white)
+![Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=flat-square&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
 
